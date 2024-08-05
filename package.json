@@ -7,7 +7,7 @@
     "@nuxt/typescript-runtime": "2.0.0",
     "@nuxtjs/composition-api": "0.18.0",
     "nuxt-property-decorator": "2.8.8",
-    "nuxt": "2.14.12"
+    "nuxt": "3.12.4"
   },
   "scripts": {
     "dev": "nuxt-ts",
